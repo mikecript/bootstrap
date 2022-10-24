@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'logo';
+    src: url('Permanent_Marker/PermanentMarker-Regular.ttf') format('truetype');
+}
+
+
+
+img{
+    display: inline;
+}
+
+h1{
+    font-weight: lighter;
+    font-size: 1.9em;
+    font-family: 'logo';
+    display: inline;
+    margin: 0px 0px 0px 0px;
+    color: white;
+    text-shadow: 1px 1px 1px #00000067;
+}
+
+
+#pesquisa{
+    margin: 0px 175px 0px 0px;
+}

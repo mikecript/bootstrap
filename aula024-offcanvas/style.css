@@ -1,0 +1,27 @@
+
+
+#menu{
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.474);
+    box-shadow: 2px 2px 2px #0000003a;
+    width: 300px;
+}
+
+.nav-item{
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.474);
+}
+
+.nav-item:hover{
+
+    box-shadow: 1px 1px 1.8px rgba(0, 0, 0, 0.474);
+}
+
+#perfil-photo{
+    display: block;
+    width: 175px;
+    border-radius: 50%;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    box-shadow: 2px 2px 1.8px rgba(0, 0, 0, 0.342);
+
+}
